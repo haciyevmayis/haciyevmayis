@@ -2,8 +2,8 @@
 <p><em>Back-end developer at ELSEO.az <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Facebook: follow](https://img.shields.io/badge/-arifabdd-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/haciyev.mayis/)](https://www.facebook.com/haciyev.mayis/)
-[![Linkedin: connect](https://img.shields.io/badge/-arifabd-545454?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)](https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)
+[![Facebook: follow](https://img.shields.io/badge/-haciyev.mayis-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/haciyev.mayis/)](https://www.facebook.com/haciyev.mayis/)
+[![Linkedin: connect](https://img.shields.io/badge/-haciyev.mayis-545454?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)](https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)
 ![GitHub followers](https://img.shields.io/github/followers/23arif?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=haciyevmayis.haciyevmayis)
 
