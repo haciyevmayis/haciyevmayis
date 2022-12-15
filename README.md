@@ -4,7 +4,7 @@
 
 [![Facebook: follow](https://img.shields.io/badge/-haciyev.mayis-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/haciyev.mayis/)](https://www.facebook.com/haciyev.mayis/)
 [![Linkedin: connect](https://img.shields.io/badge/-haciyev.mayis-545454?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)](https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)
-![GitHub followers](https://img.shields.io/github/followers/23arif?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/haciyev.mayis?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=haciyevmayis.haciyevmayis)
 
 <img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="230" style="margin-top:100px">
