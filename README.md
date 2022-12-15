@@ -31,12 +31,9 @@ class About extends Me
             Javascript::class,
             JQuery::class,
             Bootstrap::class,
-            Laravel::class,
+            WordPress::class,
             Php::class,
-            MySql::class,
-            PostgreSql::class,
-            Docker::class,
-            Git::class,
+            MySql::class
         ];
     }
     public function getFutureGoal(): string
