@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="30">  Hi, I'm Mayis Hajiyev! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
-<p><em>Back-end developer at Proton.az <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Back-end developer at ELSEO.az <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Facebook: follow](https://img.shields.io/badge/-arifabdd-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/haciyev.mayis/)](https://www.facebook.com/haciyev.mayis/)
