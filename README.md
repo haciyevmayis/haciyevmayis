@@ -2,9 +2,9 @@
 <p><em>Back-end developer at ELSEO.az <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p>01001101 01100001 01111001 01101001 01110011</p>
-<p>[77, 97, 121, 105, 115]</p>
-<p>txt = "\115\141\171\151\163"</p>
+<p>01001101 01100001 01111001 01101001 01110011 - Binary</p>
+<p>[77, 97, 121, 105, 115] - Decimal</p>
+<p>txt = "\115\141\171\151\163" - Octal</p>
 
 [![Facebook: follow](https://img.shields.io/badge/-haciyev.mayis-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/haciyev.mayis/)](https://www.facebook.com/haciyev.mayis/)
 [![Linkedin: connect](https://img.shields.io/badge/-haciyev.mayis-545454?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)](https://www.linkedin.com/in/mayis-hacıyev-a2a659199/)
