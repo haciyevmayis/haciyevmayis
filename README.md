@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="30">  Hi, I'm Mayis Hajiyev! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
-<p><em>Back-end developer at ELSEO.az <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Back-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p>01001101 01100001 01111001 01101001 01110011 - Binary</p>
